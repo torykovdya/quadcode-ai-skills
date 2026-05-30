@@ -1,8 +1,6 @@
-# Quadcode AI Skills — Test Assignment
+# Quadcode AI Skills 
 
-> Skills Engineer Test Submission  
-> Platform: Quadcode.ai  
-> Author: Skills Engineer Candidate
+> Platform: Quadcode.ai
 
 ---
 
