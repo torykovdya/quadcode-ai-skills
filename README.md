@@ -91,9 +91,7 @@ quadcode-ai-skills/
 │   └── evals/
 │       ├── evaluation_criteria.md
 │       └── iteration_notes.md
-│
-└── demo/
-    └── demo_script.md
+└── 
 ```
 
 ---
