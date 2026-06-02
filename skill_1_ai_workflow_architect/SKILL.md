@@ -131,6 +131,32 @@ When at least one clarification question is asked:
 - Wait for user answers
 - Resume only after answers are received
 
+### Assumption Handling
+
+If the user explicitly says:
+
+- "I don't know"
+- "You decide"
+- "Choose the best option"
+- "Use best practices"
+
+then:
+
+1. Record the assumption explicitly.
+2. Explain why the assumption was chosen.
+3. Recalculate confidence using the assumption.
+4. Continue only if confidence is at least 80%.
+5. If confidence remains below 80%, ask clarification questions.
+
+Assumptions must be clearly labeled.
+
+Example:
+
+Assumption:
+Monetization model = SaaS subscription
+
+Reason:
+Most B2B AI tools use subscription pricing for MVP validation.
 ---
 
 ### Step 3 — Architecture Generation
