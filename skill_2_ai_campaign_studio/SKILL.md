@@ -1,7 +1,5 @@
-[skill2_SKILL.md](https://github.com/user-attachments/files/28444686/skill2_SKILL.md)
-
+AI Campaign Studio
 ---
-name: AI Campaign Studio
 alias: design_create_campaign
 description: Transform a brand or product brief into a complete visual campaign — concept, brand system, style anchor, and production-ready marketing assets.
 type: tools: designer
