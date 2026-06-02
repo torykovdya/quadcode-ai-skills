@@ -14,7 +14,7 @@
 - **Target Users:** K-12 students, university students, lifelong learners
 - **Integrations:** OpenAI API (GPT-4o for reasoning), MathJax/KaTeX (rendering), Firebase (Auth/DB)
 
-**Confidence: 60%**
+**Confidence: 80%**
 Reason: Platform and domain are clear, but curriculum scope, interaction style, and offline requirements are unknown — all of which affect architecture.
 
 ---
