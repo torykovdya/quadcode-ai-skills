@@ -1,6 +1,5 @@
-
+AI Workflow Architect
 ---
-name: AI Workflow Architect
 alias: analyst_create_workflow
 description: Transform any project idea into a complete technical blueprint — stack, schema, API, architecture, roadmap, and risk report.
 type: tools: analyst
