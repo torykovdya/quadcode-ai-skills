@@ -86,5 +86,5 @@ Each output is evaluated on 6 dimensions. Each dimension is scored 0–10.
 
 A skill output is considered passing at **Overall Score ≥ 7.0**.
 Both tested outputs passed with scores above 9.0.
-Uploading evaluation_criteria.md…]()
+Uploading evaluation_criteria.md…
 
