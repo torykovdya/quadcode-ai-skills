@@ -248,6 +248,28 @@ For each risk provide:
 - Impact
 - Mitigation
 
+### Severity Rubric
+
+Use the following definitions when assigning severity:
+
+#### High
+- Project failure
+- Security breach
+- Regulatory/compliance violation
+- Revenue loss greater than 20%
+- Critical system outage
+
+#### Medium
+- Delivery delays
+- Increased infrastructure or development costs
+- Performance degradation
+- Reduced user adoption
+
+#### Low
+- Minor inconvenience
+- Cosmetic issues
+- Easily reversible decisions
+- Non-critical inefficiencies
 ---
 
 ## Assumption Policy
