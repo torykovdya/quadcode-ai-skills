@@ -48,7 +48,7 @@ Generate a consistent visual language and production-ready assets for social med
 2. Color palette must be established in Step 2 — never change it after
 3. All campaign assets must share the same visual identity, color palette, lighting style, and brand personality
 4. Each image must serve a different narrative purpose
-5. Use Nanobanana for all image generation
+5. Use Nanobanana for all image generation. If unavailable, use the platform's highest-quality image model while preserving the same style anchor and generation requirements.
 6. Prompts must include: mood, lighting, composition, color palette, atmosphere
 7. Style Consistency Check is mandatory — never skip it
 8. Define a Style Anchor in Step 2 — copy it verbatim into every image prompt
