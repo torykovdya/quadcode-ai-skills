@@ -75,5 +75,5 @@ Added "The idea is too vague to identify any domain, platform, or user" to preve
 - Skill does not handle multi-product architectures (by design — see Do Not Use When)
 - Very long user inputs may cause the agent to skip clarification even when beneficial
 - LLM Critic quality depends on the underlying model — weaker models produce generic risks
-loading iteration_notes.md…]()
+loading iteration_notes.md…
 
