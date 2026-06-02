@@ -27,7 +27,7 @@ Both skills were designed, built, tested, and refined directly on the Quadcode.a
 Developers and product managers spend hours architecting new projects from scratch — choosing tech stack, designing DB schema, planning API structure, writing roadmaps. This skill compresses that process from hours to minutes.
 
 **How it works:**  
-5-stage pipeline with adaptive clarification. The skill extracts intent, evaluates confidence, asks only critical questions, generates full architecture, plans execution, and runs an LLM Critic validation.
+6-stage pipeline with adaptive clarification. The skill extracts intent, evaluates confidence, asks only critical questions, generates full architecture, plans execution, and runs an LLM Critic validation.
 
 **Key design decisions:**
 - Confidence scoring (0–100%) determines whether clarification is needed
@@ -47,7 +47,7 @@ Developers and product managers spend hours architecting new projects from scrat
 Brand and marketing teams spend days developing campaign concepts, visual directions, and producing assets. This skill generates a complete visual campaign — concept, brand system, style anchor, and production-ready assets — from a single brief.
 
 **How it works:**  
-6-stage pipeline including differentiation analysis, brand system definition, style anchor creation, asset planning, image generation via Nanobanana, and style consistency audit.
+8-stage pipeline including differentiation analysis, brand system definition, style anchor creation, asset planning, image generation via Nanobanana, and style consistency audit.
 
 **Key design decisions:**
 - Style Anchor: a fixed parameter block copied verbatim into every image prompt — prevents style drift between assets
@@ -91,7 +91,7 @@ quadcode-ai-skills/
 │   └── evals/
 │       ├── evaluation_criteria.md
 │       └── iteration_notes.md
-└── 
+
 ```
 
 ---
