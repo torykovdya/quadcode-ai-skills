@@ -1,5 +1,3 @@
-[SKILL.md](https://github.com/user-attachments/files/28444668/SKILL.md)
-
 ---
 name: AI Workflow Architect
 alias: analyst_create_workflow
