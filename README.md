@@ -1,3 +1,4 @@
+![Quadcode AI Skills](banner.png)
 # Quadcode AI Skills 
 
 > Platform: Quadcode.ai
